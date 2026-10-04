@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Arul — Data Engineer, Data Analyst, Full-Stack Developer" width="100%">
+<img src="profile-banner.svg" alt="Arul — Data Engineer, Data Analyst, Full-Stack Developer" width="100%">
 
 # Arul G
 
