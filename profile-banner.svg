@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Arul G — Data Engineer, Data Analyst, Full-Stack Developer</title>
+  <desc id="desc">Minimal light corporate profile banner with abstract data-flow lines.</desc>
+  <rect width="1200" height="300" rx="24" fill="#f4f7fb"/>
+  <circle cx="1030" cy="70" r="190" fill="#e5eefb"/>
+  <circle cx="1090" cy="250" r="130" fill="#dce9f8"/>
+  <g fill="none" stroke="#7b9fc9" stroke-width="2" opacity=".55">
+    <path d="M760 55 H910 V105 H1050 V165 H1180"/>
+    <path d="M720 125 H850 V185 H1000 V235 H1160"/>
+    <path d="M800 270 V220 H900 V155 H1020 V90"/>
+  </g>
+  <g fill="#3b6ea8">
+    <circle cx="760" cy="55" r="6"/><circle cx="910" cy="105" r="6"/>
+    <circle cx="1050" cy="165" r="6"/><circle cx="850" cy="185" r="6"/>
+    <circle cx="1000" cy="235" r="6"/><circle cx="900" cy="155" r="6"/>
+    <circle cx="1020" cy="90" r="6"/>
+  </g>
+  <text x="72" y="108" fill="#17324d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" letter-spacing="3">ARUL G</text>
+  <text x="72" y="165" fill="#10263d" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Data &amp; Software Engineering</text>
+  <text x="74" y="210" fill="#536b82" font-family="Arial, Helvetica, sans-serif" font-size="21">Data Engineer  ·  Data Analyst  ·  Full-Stack Developer</text>
+</svg>
